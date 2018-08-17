@@ -29,6 +29,7 @@ public class Book
 	
 	/*
 	 * queda pendiente de revisar como es que hare todo este show
+	 * este sera un cambio que solo se vera en la rama de pruebas
 	 * */
 	
 	@Id
