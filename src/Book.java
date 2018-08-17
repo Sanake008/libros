@@ -27,6 +27,10 @@ public class Book
 		//this.publisher = publisher;
 	}
 	
+	/*
+	 * queda pendiente de revisar como es que hare todo este show
+	 * */
+	
 	@Id
 	@Column(name = "isbn")
 	public String getIsbn() {
